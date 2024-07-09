@@ -71,15 +71,5 @@ To view and interact with the Excel dashboard, you need:
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Thanks to the sales team for providing the data.
-- Inspired by various Excel dashboard templates available online.
-
----
-
-Feel free to adjust the sections and content according to your specific requirements and details about your dashboard.
